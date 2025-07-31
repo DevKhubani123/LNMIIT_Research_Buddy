@@ -1,0 +1,574 @@
+Faculty Members at LNMIIT Jaipur (2024-25)
+
+1. Sunil Kumar
+   - Designation: Assistant Professor & HoD
+   - Qualification: Ph.D., LNMIIT Jaipur
+   - Research Areas: IoT, CPS, Sensor Networks, Distributed Systems, Multi-core Systems
+
+2. Ranjan Gangopadhyay
+   - Designation: Research Professor
+   - Qualification: Ph.D., IIT Kharagpur
+   - Joint Appointment: ECE
+   - Research Areas: Photonics & Wireless Communication, Cognitive Radio
+
+3. Abhishek Sharma
+   - Designation: Associate Professor
+   - Qualification: Ph.D., University of Genova, Italy
+   - Joint Appointment: ECE
+   - Research Areas: Embedded Systems, High Performance Embedded Computing
+
+4. Jayaprakash Kar
+   - Designation: Associate Professor
+   - Qualification: Ph.D., Utkal University, Bhubaneswar
+   - Joint Appointment: CSE
+   - Research Areas: Cryptology, Provable Security, Bitcoin & Cryptocurrency Technologies, Cyber Security
+
+5. Anirudh Agarwal
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., LNMIIT Jaipur
+   - Joint Appointment: ECE
+   - Research Areas: 5G Wireless Comm., Green Comm. Networks (involving Wireless Power Transfer), Applied Machine Learning, Optimization
+
+6. Anukriti Bansal
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., IIT Delhi
+   - Joint Appointment: CSE
+   - Research Areas: Image Processing, Machine Learning, Pattern Recognition
+
+7. Prateek Rathore
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., IIT Guwahati
+   - Research Areas: Modelling, Simulation, Analyses of Wireless Networks
+
+8. Priyanka Gupta
+   - Designation: Assistant Professor (Contract)
+   - Qualification: Ph.D., DAIICT, Gandhinagar
+   - Research Areas: Feature engineering using speech signal processing, neural network approaches for anti-spoofing for voice biometrics, Automatic Speech Recognition (ASR) systems
+
+9. Rajbir Kaur
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., MNIT Jaipur
+   - Joint Appointment: CSE
+   - Research Areas: Security in Mobile Ad-Hoc Networks, Internet of Things (IoT)
+
+10. Santosh Shah
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., Universidad de Valencia, Spain
+    - Joint Appointment: ECE
+    - Research Areas: Wireless Sensor Networks
+
+11. Varun Kumar Sharma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., Jaypee University of Engg. & Tech., Guna
+    - Joint Appointment: CSE
+    - Research Areas: Network Communication
+
+12. Bimal Kumar Roy
+    - Designation: Research Professor
+    - Qualification: Ph.D., University of Waterloo, Canada
+    - Research Areas: Combinatorics, application of Statistics in Cryptology, Design of Experiments
+
+13. Rahul Banerjee
+    - Designation: Professor
+    - Qualification: Ph.D., Faculty of Engineering & Tech., AU
+    - Research Areas: Computer Networking, Wearable Computing, Ubiquitous Computing (CPS/IoT), Intelligent Systems
+
+14. Ravi Prakash Gorthi
+    - Designation: Honorary Adjunct Professor
+    - Qualification: Ph.D., IIT Madras
+    - Research Areas: Software & Performance Engineering, Human Computer Interaction, Artificial Intelligence
+
+15. Vishv Mohan Malhotra
+    - Designation: Honorary Adjunct Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Software Engineering, Programming Languages, Sensor Networks
+
+16. Bhawani Sankar Panda
+    - Designation: Visiting Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Graph Theory, Algorithms, Parallel Computing, Machine Learning on Graphs
+
+17. C. Pandu Rangan
+    - Designation: Visiting Professor
+    - Qualification: Ph.D., IISc Bangalore
+    - Research Areas: Cryptography, Security Protocols, Graph Theory, Computational Geometry, Randomized and Parallel Algorithms
+
+18. Sakthi Balan Muthiah
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Madras
+    - Research Areas: Social Network Analysis, Information Diffusion, Bias and Privacy in the Web, Data Science, Biocomputing, Formal Language, Automata Theory
+
+19. Aloke Datta
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., Jadavpur University
+    - Research Areas: Machine Learning, Pattern Recognition, Soft Computing, Video & Image Processing, Hyperspectral Image Analysis, Medical Image Analysis
+
+20. Preety Singh
+    - Designation: Associate Professor
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Deep Learning, Pattern Recognition, Computer Vision
+
+21. Subrat Kumar Dash
+    - Designation: Associate Professor
+    - Qualification: Ph.D., University of Hyderabad
+    - Research Areas: System Security, Data Mining, Behaviour Modeling
+
+22. Divya Bairathi
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Metaheuristics, Optimization, Swarm intelligence
+
+23. Bharavi Mishra
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT BHU
+    - Research Areas: Data Mining, Machine Learning, Soft Computing, Security and Privacy
+
+24. Indra Deep Mastan
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Gandhinagar
+    - Research Areas: Computer Vision, Image Restoration, Image Synthesis
+
+25. Mohit Gupta
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., VNIT Nagpur
+    - Research Areas: Web Application Security, Smart Contract Security (Blockchain)
+
+26. Md. Imran Alam
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Patna
+    - Research Areas: Formal Methods, Program Analysis and Verification, Database Applications, Blockchain, Smart Contracts, Machine Learning
+
+27. Mukesh Kumar Jadon
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (Pursuing), LNMIIT Jaipur
+    - Research Areas: Data and Text Mining
+
+28. Nirmal Kumar Sivaraman
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (Pursuing), LNMIIT Jaipur
+    - Research Areas: Social Network Analysis, Information Diffusion, Web Science
+
+29. Poonam Gera
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Roorkee
+    - Research Areas: Security in MANETS, Cloud Security, Network Security
+
+30. Poulami Dalapati
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Durgapur
+    - Research Areas: Artificial Intelligence, Autonomous Agent & multiagent based systems, Intelligent Transportation, Optimization
+
+31. Saurabh Kumar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., SVNIT Surat
+    - Research Areas: Internet of Things, Collaborative Data Processing, Wireless Sensor Networks
+
+32. Sudheer Kumar Sharma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., JNU New Delhi
+    - Research Areas: Computational Neuroscience, Stochastic Modeling, Information Theory, Machine Learning, Queueing Theory
+
+33. Ashish Kumar Dwivedi
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Rourkela
+    - Research Areas: Cyber Security, Machine Learning, Software Engineering
+
+34. Pawan Kumar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Machine Learning, Deep Learning, Natural Language Processing, Large Language Models
+
+35. Vikas Bajpai
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (Pursuing), LNMIIT Jaipur
+    - Research Areas: Software Requirements Engineering, Software Testing, Software Quality Assurance, Architecting Software, Prediction and Estimation using Deep Learning
+
+36. Nitesh Pradhan
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., Manipal University Jaipur
+    - Research Areas: Machine Learning, Medical Imaging, Image Preprocessing, Pattern Recognition
+
+37. Nikunja Bihari Kar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Rourkela
+    - Research Areas: Facial Expression Analysis, Medical Image Analysis and Classification, Machine Learning, Deep Learning, Computer Vision
+
+38. Abhijit Adhikari
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Durgapur
+    - Research Areas: Knowledge Graphs, Semantic Measures, NLP, AI
+
+39. Ritu Sharma
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Information Retrieval and Filtering, Artificial Intelligence, Machine Learning, Recommender Systems
+
+40. Lal Upendra Pratap Singh
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIIT Allahabad
+    - Research Areas: Machine Learning, Deep Learning, Optimization, Transfer Learning for Computer Vision, Applied Natural Language Processing
+
+41. Nikhil Sharma
+    - Designation: Assistant Professor & HoD
+    - Qualification: Ph.D., NSIT Delhi
+    - Research Areas: Wireless Comm., Cooperative Communication, Free-space Optics, Visible Light Comm.
+
+42. Raghuvir Tomar
+    - Designation: Professor of Practice
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Electromagnetics, Radio Frequency and Microwaves, Antennas
+
+43. Subrat Kar
+    - Designation: Adjunct Professor
+    - Qualification: Ph.D., IISc Bangalore
+    - Research Areas: Optical communication, switching, access technologies, telecom protocols, embedded systems, high-speed networks
+
+44. Rajeev Shorey
+    - Designation: Adjunct Professor
+    - Qualification: Ph.D., IISc Bangalore
+    - Research Areas: Communication Networks, Data Analytics, Machine Learning, Artificial Intelligence
+
+45. Divyang Rawal
+    - Designation: Associate Professor
+    - Qualification: Ph.D., DAIICT Gandhinagar
+    - Research Areas: ICT, Signal Processing for Communication
+
+46. Kusum Lata
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IISc Bangalore
+    - Research Areas: Analog & Mixed Signal Design, Modeling and Design of VLSI Circuits, Low Power and Circuit Design
+
+47. Soumitra Debnath
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Kharagpur
+    - Research Areas: Optical Networks, Queuing Theory, Cognitive Radio
+
+48. Akash Gupta
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NSIT Delhi University of Delhi
+    - Research Areas: Optical Wireless Comm., Visible Light Communication, Energy Harvesting, IoT applications
+
+49. Bharat Verma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIITDM Jabalpur
+    - Research Areas: Control System, Indirect Design Approach, PID Control, Intelligent Control, Bio-medical Signal Processing
+
+50. Gopinath Samanta
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIEST Shibpur
+    - Research Areas: Implantable and Wearable Antenna, Wireless Power Transfer, Tera Hertz Antenna & Tera Hertz Electromagnetic Absorber, Meta-surface for performance improvement of Antenna
+
+51. Chirag Kumar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Applications and Algorithms for Discriminative Dictionary Learning
+
+52. Gaurav Chatterjee
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., LIRMM-CNRS, Montpellier France
+    - Research Areas: MEMS, Sensors, Robotics
+
+53. Harshvardhan Kumar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Delhi
+    - Research Areas: Optoelectronic devices, nano-photonics, & electronic devices, Silicon-based photonics, & GeSn-based photodetectors and light emitters
+
+54. Kanjalochan Jena
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Silchar
+    - Research Areas: Solid-State Devices, Nanotechnology and Biosensors: Compact Modeling and Simulation
+
+55. Navneet Upadhyay
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., BITS Pilani
+    - Research Areas: Speech Processing, Digital Communication
+
+56. Joyeeta Singha
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Silchar
+    - Research Areas: Image and Video Processing, Hand Gesture Recognition
+
+57. M. V. Deepak Nair
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., University of Rome, Tor-Vergata
+    - Research Areas: Linearization Techni. for High Frequency Power Amplifier
+
+58. Nikhil Raj
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Kurukshetra
+    - Research Areas: Low Power Analog & Mixed Signal Design, Bio-inspired Circuit Design
+
+59. Purnendu Karmakar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (Pursuing), IIT Kharagpur
+    - Research Areas: Wireless Comm., Comp. Networks, Trust & Reputation in Virtual Comm. & Social Network
+
+60. Sandeep Saini
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: VLSI Design, Microelectronics
+
+61. Suvadeep Choudhury
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kharagpur
+    - Research Areas: Antennas, RF & Microwave Engineering
+
+62. Rohit Rana
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NSUT New Delhi
+    - Research Areas: Embedded Systems Design, Signal processing, Control Systems
+
+63. Ritesh Bhardwaj
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Indore
+    - Research Areas: Solid State Election Devices for new Generation Electronics/Technology
+
+64. Vaibhav Kumar Gupta
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Game theoretic aspects & algorithms for wireless cellular networks, Non-Terrestrial Networks (NTN)
+
+65. Navneet Garg
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Interference Alignment, Integrated Sensing & Communications, Full duplex, Edge Caching, Reinforcement Learning
+
+66. Jeet Ghosh
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIEST Shibpur
+    - Research Areas: RF and Microwave Antenna, Metamaterial, Artificial Electromagnetic Surfaces
+
+67. Shailza Gotra
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Delhi
+    - Research Areas: Microwave and Millimeter wave Antennas, Microwave Imaging Radar System
+
+68. Durga Prasad Mishra
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Rourkela
+    - Research Areas: Radio Frequency Identification (RFID), Microwave and Antenna Engineering, UAV with RFID
+
+69. Harish Chandra Kumawat
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., DIAT Pune
+    - Research Areas: RF, Signal Processing, Radar, Radar Signal Processing
+
+70. Deepshikha Lodhi
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: RF and Microwave, UWB MIMO antennas, THz antennas
+
+71. Gurinder Singh
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., IIIT Delhi
+    - Research Areas: VLC, NOMA, Edge Computing, Machine Learning, Reconfigurable Intelligent Surfaces
+
+72. Umesh Sharma
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., IIT Delhi
+    - Research Areas: Statistical & Determi. Digital Signal Processing, Spectral Analysis of Signals, Signal Processing
+
+73. Mohit Makkar
+    - Designation: Assistant Professor & HoD
+    - Qualification: Ph.D., University of Lille 1, France
+    - Research Areas: Robotics, Modeling and Simulation, Design of Control Systems, System Dynamics
+
+74. Sunil Pandey
+    - Designation: Distinguished Professor
+    - Qualification: Ph.D., IIT Delhi
+    - Research Areas: Welding and Joining Technology, Production Engineering, Process Engineering
+
+75. Kamal Kishore Khatri
+    - Designation: Associate Professor
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Alternate Fuels in IC Engines, Trigeneration, Modeling and Simulation of Thermal/Energy Systems, Application of Nano-fluids
+
+76. Manoj Kumar
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Delhi
+    - Research Areas: Production and Industrial Engineering, Welding Technology
+
+77. Vikram Sharma
+    - Designation: Associate Professor
+    - Qualification: Ph.D., Guru Gobind Singh Indraprastha University, Delhi
+    - Research Areas: Supply Chain Management, Lean Manufacturing
+
+78. Ashok Kumar Dargar
+    - Designation: Associate Professor
+    - Qualification: Ph.D., Jamia Millia Islamia University, Delhi
+    - Research Areas: Synthesis and Analysis of Kinematic Chains and Mechanisms
+
+79. Deepak R. Unune
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Hybrid Machining Processes, Electro Discharge Mach., Modelling & Analysis of Mech. Systems
+
+80. Atul Mishra
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kharagpur
+    - Research Areas: Industrial and Mobile Robotics, Production Planning and Control, Artificial Intelligence in Manufacturing
+
+81. Praveen Kumar Sharma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Hyderabad
+    - Research Areas: Dynamics of Drop Impacting a Dry Rigid Surface
+
+82. Servesh Kumar Agnihotri
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Fracture mechanics, Experimental Solid Mechanics, Functionally graded composites
+
+83. Vikas Sharma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Indore
+    - Research Areas: Gears and Bearings, Vibrations, Condition Monitoring, Fault Diagnosis, Signal Processing Techniques
+
+84. Bharat Singh
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Robotics and Artificial Intelligence
+
+85. Sandeep Singh Shekhawat
+    - Designation: Assistant Professor (On contract)
+    - Qualification: Ph.D., MNIT Jaipur
+    - Research Areas: Microbial Ecology, Water disinfection, Antimicrobial resistance, Wastewater Treatment
+
+86. Manish Garg
+    - Designation: Associate Professor & HoD
+    - Qualification: Ph.D., IIT Roorkee
+    - Research Areas: Cryptography, Boolean Functions, Finite Field
+
+87. Mohan K. Kadalbajoo
+    - Designation: Distinguished Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Numerical Analysis, Parallel Algorithms, Computational PDEs, Computational Finance
+
+88. Ajit Patel
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Numerical Analysis, Computational PDEs, Finite Element Methods
+
+89. Pratibha Garg
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Delhi
+    - Research Areas: Topological and Function Space
+
+90. Vikas Gupta
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Numerical Analysis, Singularly Perturbed Problems, B-spline
+
+91. Dishari Chaudhury
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Guwahati
+    - Research Areas: Non-Commutative Algebras, Lie Algebras
+
+92. Ratan Giri
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., NIT Rourkela
+    - Research Areas: Partial Differential Equations (PDEs), Theoretical aspects of nonlinear elliptic and parabolic PDEs
+
+93. Sudipto Chowdhury
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IISc Bangalore
+    - Research Areas: Numerical Analysis
+
+94. Sunil Kumar Gauttam
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Stochastic Control, Probability Theory, Stochastic Processes
+
+95. Trivedi Harsh Chandrakant
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Functional Analysis
+
+96. Ashish Mishra
+    - Designation: Assistant Professor
+    - Qualification: Ph.D., IIT Bombay
+    - Research Areas: Representation theory of finite groups, Partition algebra
+
+97. Ashok Garai
+    - Designation: Associate Professor & HoD
+    - Qualification: Ph.D., IIT Kanpur
+    - Research Areas: Theoretical & Computational Biophysics, Molecular Motors, Genetic Networks, Theory of Single Molecular Pulling Experiments, DNA Nanomechanics
+
+98. Ganesh Dutt Sharma
+    - Designation: Emeritus Professor
+    - Qualification: Ph.D., IIT Delhi
+    - Research Areas: Organic Electronics, Organic Solar Cells, Dye Sensitized Solar Cells, Nano-Science & Technology
+
+99. Subhayan Biswas
+    - Designation: Associate Professor
+    - Qualification: Ph.D., IACS Kolkata
+    - Research Areas: Third Generation Solar Cells, Photocatalysis
+
+100. Anjishnu Sarkar
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., IIT Bombay
+     - Research Areas: Cosmology, Particle Physics, Non-equilibrium statistical mechanics and its applications, Applied optics, Group theory, Advanced computational physics, Quantum computing & quantum information, Introduction to molecular modelling and simulation
+
+101. Anupam Singh
+     - Designation: Professor
+     - Qualification: Ph.D., Carnegie Mellon University, USA
+     - Research Areas: High Energy Physics, Cosmology
+
+102. Somnath Biswas
+     - Designation: Professor
+     - Qualification: Ph.D., IIT Kharagpur
+     - Research Areas: Magnetic Nanomaterials and Nano-structures, Spintronic Devices, FET-based Sensor Devices, Materials for Fuel Cells and Hydrogen Storage
+
+103. Amit Neogi
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., IIT Kanpur
+     - Research Areas: Medical Data Collection and Organization in Alternative Therapies
+
+104. Manish Kumar Singh
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., MNNIT Allahabad
+     - Research Areas: Solid State Physics, Electronics, Nanomaterials, Laser Ablation in Liquids, Biosensors
+
+105. Nabyendu Das
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., Institute of Physics, Bhubaneswar
+     - Research Areas: Theoretical Condensed Matter Physics
+
+106. Rakesh Tibrewala
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., Tata Institute of Fundamental Research, Mumbai
+     - Research Areas: General Relativity, Aspects of Quantum Gravity
+
+107. Pomita Ghoshal
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., HRI Allahabad University
+     - Research Areas: Particle Physics
+
+108. Surinder Singh Nehra
+     - Designation: Assistant Professor & HoD
+     - Qualification: Ph.D., University of Pune
+     - Research Areas: Social Security, Urbanisation, Infrastructure
+
+109. Manju Dhariwal
+     - Designation: Professor
+     - Qualification: Ph.D., Univ. of Rajasthan
+     - Research Areas: English Language and Literature, Communication Theory
+
+110. Rajbala Singh
+     - Designation: Associate Professor
+     - Qualification: Ph.D., IIT Kanpur
+     - Research Areas: Health Psychology, Psychology of Technology, Organizational Behaviour
+
+111. Usha Kanoongo
+     - Designation: Associate Professor
+     - Qualification: Ph.D., Univ. of Rajasthan
+     - Research Areas: Applied Linguistics, English Language Teaching, Computer-mediated Communication
+
+112. Swati Sharma
+     - Designation: Assistant Professor
+     - Qualification: Ph.D., JNU New Delhi
+     - Research Areas: Economics of education, labour economics, development economics, digital skilling
+
+113. Manasvini Rai
+     - Designation: Guest Faculty
+     - Qualification: Ph.D., MNIT Jaipur
+     - Research Areas: Black British Writing, Contemporary British Fiction, Intersectionality & Marginality Studies, Film Studies, Ecocriticism, Women's Writing
